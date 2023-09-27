@@ -1,2 +1,3 @@
-## frontend básico para consultar saldo (balanceOf) de um endereço
-------------------------------------------------------------------
+## frontend básico para consultar saldo (balanceOf), 
+mintar e transferir tokens de um endereço
+-------------------------------------------------------
